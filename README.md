@@ -6,3 +6,6 @@
 
 ### Game 1: Is Even?:
 [![asciicast](https://asciinema.org/a/Z6WVTrAUHzVnwz380uZ5zrZmU.svg)](https://asciinema.org/a/Z6WVTrAUHzVnwz380uZ5zrZmU)
+
+### Game 2: Calculator:
+[![asciicast](https://asciinema.org/a/Egh0CU4NoB9pw6LgloNwf8TTZ.svg)](https://asciinema.org/a/Egh0CU4NoB9pw6LgloNwf8TTZ)
