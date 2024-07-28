@@ -12,3 +12,6 @@
 
 ### Game 3: GCD:
 [![asciicast](https://asciinema.org/a/FgtJRdTD8smJgknL6wQlTWl3Q.svg)](https://asciinema.org/a/FgtJRdTD8smJgknL6wQlTWl3Q)
+
+### Game 4: Progression:
+[![asciicast](https://asciinema.org/a/Ak4a9AAUgCQM5Zz3tLaXLlMPH.svg)](https://asciinema.org/a/Ak4a9AAUgCQM5Zz3tLaXLlMPH)
