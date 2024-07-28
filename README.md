@@ -9,3 +9,6 @@
 
 ### Game 2: Calculator:
 [![asciicast](https://asciinema.org/a/Egh0CU4NoB9pw6LgloNwf8TTZ.svg)](https://asciinema.org/a/Egh0CU4NoB9pw6LgloNwf8TTZ)
+
+### Game 3: GCD:
+[![asciicast](https://asciinema.org/a/FgtJRdTD8smJgknL6wQlTWl3Q.svg)](https://asciinema.org/a/FgtJRdTD8smJgknL6wQlTWl3Q)
