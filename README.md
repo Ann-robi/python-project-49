@@ -15,3 +15,6 @@
 
 ### Game 4: Progression:
 [![asciicast](https://asciinema.org/a/Ak4a9AAUgCQM5Zz3tLaXLlMPH.svg)](https://asciinema.org/a/Ak4a9AAUgCQM5Zz3tLaXLlMPH)
+
+### Game 5: Is Prime?:
+[![asciicast](https://asciinema.org/a/pTjvrCLuHIMed5EtBPK8O2C2S.svg)](https://asciinema.org/a/pTjvrCLuHIMed5EtBPK8O2C2S)
