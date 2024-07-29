@@ -11,10 +11,10 @@ def get_game():
     i = 2
     while i <= sqrt(random_number):
         if random_number % i == 0:
-           correct_answer = 'no'
-           break
+            correct_answer = 'no'
+            break
         i += 1
-    else:  
+    else:
         correct_answer = 'yes'
     question = random_number
     return question, correct_answer
