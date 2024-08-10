@@ -8,7 +8,7 @@ RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 def get_game():
     """Создает и возвращает вопрос со случайным числом и верный ответ для одного раунда."""
     random_number = randint(MIN_LIMIT, MAX_LIMIT)
-    correct_answer = 'yes' if is_even(random_number) else correct_answer = 'no'
+    correct_answer = 'yes' if is_even(random_number) else 'no'
     question = random_number
     return question, correct_answer
 
