@@ -20,5 +20,5 @@ def is_prime(random_number):
         if random_number % i == 0:
                 return False
         i += 1
-        if random_number > 1:
-            return True
+    if random_number > 1:
+        return True
