@@ -19,6 +19,6 @@ def get_game():
     correct_answer_index = randint(0, (len(progression) - 1))
     correct_answer = progression[correct_answer_index]
     progression[correct_answer_index] = '..'
-    str_progression = [str(n) for n in progression]
+    str_progression = [str(n) for n in progression] 
     question = ' '.join(str_progression)
     return question, correct_answer

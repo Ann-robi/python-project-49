@@ -18,7 +18,7 @@ def start(game):
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
 
-        if answer == correct_answer:
+        if answer == str(correct_answer):
             print('Correct!')
         else:
             print(f"'{answer}' is wrong answer ;(."
