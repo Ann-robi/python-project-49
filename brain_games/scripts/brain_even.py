@@ -5,6 +5,7 @@ from brain_games.logic_games import start
 
 
 def main():
+    """Запускает игру."""
     start(game_even)
 
 

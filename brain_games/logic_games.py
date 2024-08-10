@@ -4,6 +4,9 @@ GAMES = 3
 
 
 def start(game):
+    """Приветствует игрока и реализует логику игр, в случае неправильного ответа - игра завершается, 
+    для победы необходимо правильно ответить в трех раундах.
+    """
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')

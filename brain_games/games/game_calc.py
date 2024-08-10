@@ -7,6 +7,7 @@ RULES = 'What is the result of the expression?'
 
 
 def get_game():
+    """Создает и возвращает вопрос со случайным арифметическим выражением и верный ответ для одного раунда."""
     num_one = randint(MIN_LIMIT, MAX_LIMIT)
     num_two = randint(MIN_LIMIT, MAX_LIMIT)
     operator = choice(['+', '-', '*'])
@@ -16,6 +17,7 @@ def get_game():
 
 
 def is_calculator(num_one, num_two, operator):
+    """Возвращает результат вычислений выражения в вопросе в зависимости от оператора."""
     if operator == '+':
         result = num_one + num_two
     elif operator == '-':
